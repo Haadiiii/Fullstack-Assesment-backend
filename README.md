@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Trek Bike Rental <a name="about-project"></a>
+# 📖 JOB Search <a name="about-project"></a>
 
 **JOB Search** is a web application that allows users to search for jobs and apply for them. It is built with React and Redux.
 
@@ -95,11 +95,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **Add_bike**
-- **Delete_bike**
-- **Fetch/get_bike**
-- **Authenticate_user**
-- **Reserve_bike**
+- **hire_People**
+- **Post_Job**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
