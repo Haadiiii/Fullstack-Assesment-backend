@@ -109,7 +109,10 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://job-seeking.onrender.com)
+- job
+- [Live Demo Link](https://job-seeking.onrender.com/api/job)
+- hire
+- [Live Demo Link](https://job-seeking.onrender.com/api/hire)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
